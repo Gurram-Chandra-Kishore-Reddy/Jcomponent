@@ -1,0 +1,23 @@
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\bin\Debug\File_upload_and _download.exe.config
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\bin\Debug\File_upload_and _download.exe
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\bin\Debug\File_upload_and _download.pdb
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form1.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Properties.Resources.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and _download.csproj.GenerateResource.cache
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and _download.csproj.CopyComplete
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and _download.exe
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and _download.pdb
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form2.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form3.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form4.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and _download.csprojAssemblyReference.cache
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form5.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form6.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form7.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form8.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form9.resources
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\bin\Debug\fileuploaddownload.mdf
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\bin\Debug\fileuploaddownload_log.ldf
+C:\Users\Chandu\source\repos\File_upload_and _download\File_upload_and _download\obj\Debug\File_upload_and__download.Form10.resources
